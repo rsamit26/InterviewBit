@@ -15,26 +15,28 @@ NOTE: If there is a tie, then compare with segment's length and return segment w
 NOTE 2: If there is still a tie, then return the segment with minimum starting index
 """
 
+
 class Solution:
-
     def maxSet(self, arr):
-        global_sum = 0
+        curr_sum, curr_len, curr_index = 0, 0, 0
+        global_sum, global_len, global_index = 0, 0, 0,
 
-        for i, a in enumerate(arr):
-            if a < 0:
-                curr_arr = arr[]
+        for i in range(len(arr)):
+            if arr[i] < 0:
+                if curr_sum > global_sum or (curr_sum == global_sum and curr_len > global_len):
+                    global_sum, global_index, global_len = curr_sum, curr_index, curr_len
+                    curr_index, curr_len, curr_sum = i + 1, 0, 0
 
+            else:
+                curr_sum += arr[i]
+                curr_len += 1
 
+        if curr_sum > global_sum or (global_sum == curr_sum and curr_len > global_len):
+            global_sum, global_index, global_len = curr_sum, curr_index, curr_len
 
-
-
-
-
+        return arr[global_index: global_index + global_len]
 
 
 s = Solution()
-a = [1, 2, 5, -7, 2, 3, 9, -5, 6]
+a = [1, 2, 5, -7, 2, 3, 9, -5, 6, 4, 1, 3]
 print(s.maxSet(a))
-
-
-
