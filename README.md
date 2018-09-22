@@ -5,16 +5,16 @@
 Topic Covered ::
   -
   * Level 2
-    - [x] [Arrays](https://github.com/rsamit26/InterviewBit/tree/master/Level2/Arrays)
-    - [x] [Math](https://github.com/rsamit26/InterviewBit/tree/master/Level2/Math)
+    - [x] [Arrays](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level2/Arrays)
+    - [x] [Math](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level2/Math)
   * Level 3
-    - [x] [Binary Search](https://github.com/rsamit26/InterviewBit/tree/master/Level3/BinarySearch)
-    - [x] [Strings](https://github.com/rsamit26/InterviewBit/tree/master/Level3/BinarySearch)
-    - [x] [Bit Manipulation](https://github.com/rsamit26/InterviewBit/tree/master/Level3/BitManipulation)
-    - [x] [Two Pointers](https://github.com/rsamit26/InterviewBit/tree/master/Level3/TwoPointers)
+    - [x] [Binary Search](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/BinarySearch)
+    - [x] [Strings](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/Strings)
+    - [x] [Bit Manipulation](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/BitManipulation)
+    - [x] [Two Pointers](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/TwoPointers)
   * Level 4
-    - [ ] [Linked List](https://github.com/rsamit26/InterviewBit/tree/master/Level4/LinkedList)
-    - [ ] [Stacks And Queues](https://github.com/rsamit26/InterviewBit/tree/master/Level4/StacksAndQueues)
+    - [ ] [Linked List](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/LinkedList)
+    - [ ] [Stacks And Queues](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/StacksAndQueues)
   * Level 5
     - [ ] Backtracking
     - [ ] Hashing
