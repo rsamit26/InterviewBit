@@ -10,8 +10,8 @@ Topic Covered ::
   * Level 3
     - [x] Binary Search
     - [x] Strings
-    - [ ] Bit Manipulation
-    - [ ] Two Pointers
+    - [x] Bit Manipulation
+    - [x] Two Pointers
   * Level 4
     - [ ] Linked List
     - [ ] Stacks And Queues
@@ -26,5 +26,6 @@ Topic Covered ::
     - [ ] Greedy Algorithm
   * Level 8
     - [ ] Graph Data Structure and Algorithms
+
   
   
