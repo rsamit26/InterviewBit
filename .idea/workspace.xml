@@ -2,56 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66abc5a1-7398-4030-819c-094f2c396c63" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Arrangement/Find Permutation.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Arrangement/Find Permutation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Arrangement/Next Permutation.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Arrangement/Next Permutation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Arrangement/Rotate Matrix.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Arrangement/Rotate Matrix.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Arrangement/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Arrangement/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/Add One To Number.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/Add One To Number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/Max Sum Contiguous Subarray.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/Max Sum Contiguous Subarray.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/Maximum Absolute Difference.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/Maximum Absolute Difference.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/Min Steps in Infinite Grid.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/Min Steps in Infinite Grid.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/Repeat and Missing Number Array.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/Repeat and Missing Number Array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ArrayMath/flip.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ArrayMath/flip.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Find Duplicate in Array.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Find Duplicate in Array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Hotel Bookings Possible.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Hotel Bookings Possible.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Largest Number.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Largest Number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Max Distance.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Max Distance.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Maximum Consecutive Gap.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Maximum Consecutive Gap.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/Wave Array.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Wave Array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/Bucketing_or_sorting/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/Anti Diagonals.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/Anti Diagonals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/Kth Row of Pascal's Triangle.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/Kth Row of Pascal's Triangle.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/Max Non Negative SubArray.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/Max Non Negative SubArray.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/Pascal Triangle.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/Pascal Triangle.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/Spiral Order Matrix II.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/Spiral Order Matrix II.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SimulationArray/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SimulationArray/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SpaceRecycle/First Missing Integer.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SpaceRecycle/First Missing Integer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SpaceRecycle/Set Matrix Zeros.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SpaceRecycle/Set Matrix Zeros.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/SpaceRecycle/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/SpaceRecycle/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ValueRanges/Merge Intervals.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ValueRanges/Merge Intervals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ValueRanges/Merge Overlapping Intervals.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ValueRanges/Merge Overlapping Intervals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/ValueRanges/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/ValueRanges/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Arrays/__init__.py" afterPath="$PROJECT_DIR$/Level2/Arrays/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Search_answer/Matrix Median.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Search_answer/Matrix Median.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Search_answer/__init__.py" afterPath="$PROJECT_DIR$/Level2/Math/Adhoc/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Search_step_simulation/__init__.py" afterPath="$PROJECT_DIR$/Level2/Math/BaseConversion/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Simple_binary_search/__init__.py" afterPath="$PROJECT_DIR$/Level2/Math/DigitOP/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Sort_modification/Median of Array.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Sort_modification/Median of Array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Sort_modification/Rotated Sorted Array Search.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Sort_modification/Rotated Sorted Array Search.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/Sort_modification/__init__.py" afterPath="$PROJECT_DIR$/Level2/Math/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BinarySearch/__init__.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Search_answer/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/Adhoc/FizzBuzz.py" afterPath="$PROJECT_DIR$/Level2/Math/Adhoc/FizzBuzz.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/Adhoc/Power Of Two Integers.py" afterPath="$PROJECT_DIR$/Level2/Math/Adhoc/Power Of Two Integers.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/Adhoc/Prime Sum.py" afterPath="$PROJECT_DIR$/Level2/Math/Adhoc/Prime Sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/Adhoc/Sum of pairwise Hamming Distance.py" afterPath="$PROJECT_DIR$/Level2/Math/Adhoc/Sum of pairwise Hamming Distance.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/Adhoc/__init__.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Search_step_simulation/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/BaseConversion/Excel Column Number.py" afterPath="$PROJECT_DIR$/Level2/Math/BaseConversion/Excel Column Number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/BaseConversion/Excel Column Title.py" afterPath="$PROJECT_DIR$/Level2/Math/BaseConversion/Excel Column Title.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/BaseConversion/__init__.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Simple_binary_search/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/DigitOP/__init__.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/Sort_modification/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/__init__.py" afterPath="$PROJECT_DIR$/Level3/BinarySearch/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays/Intersection Of Sorted Arrays.py" afterPath="$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays/Intersection Of Sorted Arrays.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,16 +23,22 @@
     <SUITE FILE_PATH="coverage/InterviewBit$Next_Permutation.coverage" NAME="Next Permutation Coverage Results" MODIFIED="1537536425684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Arrangement" />
     <SUITE FILE_PATH="coverage/InterviewBit$Wave_Array.coverage" NAME="Wave Array Coverage Results" MODIFIED="1537219346522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Bucketing_or_sorting" />
     <SUITE FILE_PATH="coverage/InterviewBit$Power_Of_Two_Integers.coverage" NAME="Power Of Two Integers Coverage Results" MODIFIED="1537020180510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math/Adhoc" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Sort_by_Color.coverage" NAME="Sort by Color Coverage Results" MODIFIED="1537652299366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Intersection_Of_Sorted_Arrays.coverage" NAME="Intersection Of Sorted Arrays Coverage Results" MODIFIED="1537645631235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Remove_Duplicates_from_Sorted_Array.coverage" NAME="Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1537648697271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
     <SUITE FILE_PATH="coverage/InterviewBit$First_Missing_Integer.coverage" NAME="First Missing Integer Coverage Results" MODIFIED="1536937545806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/SpaceRecycle" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Minimize_the_absolute_difference.coverage" NAME="Minimize the absolute difference Coverage Results" MODIFIED="1537646917033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/TwoPointer" />
     <SUITE FILE_PATH="coverage/InterviewBit$Max_Distance.coverage" NAME="Max Distance Coverage Results" MODIFIED="1537520013409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Bucketing_or_sorting" />
     <SUITE FILE_PATH="coverage/InterviewBit$Rotate_Matrix.coverage" NAME="Rotate Matrix Coverage Results" MODIFIED="1537531417656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Arrangement" />
     <SUITE FILE_PATH="coverage/InterviewBit$Single_Number.coverage" NAME="Single Number Coverage Results" MODIFIED="1537538886303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BitManipulation/BitArray" />
     <SUITE FILE_PATH="coverage/InterviewBit$Maximum_Consecutive_Gap.coverage" NAME="Maximum Consecutive Gap Coverage Results" MODIFIED="1537521096160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Bucketing_or_sorting" />
     <SUITE FILE_PATH="coverage/InterviewBit$Merge_Overlapping_Intervals.coverage" NAME="Merge Overlapping Intervals Coverage Results" MODIFIED="1536993656818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/ValueRanges" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="Remove Duplicates from Sorted Array II Coverage Results" MODIFIED="1537650590572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
     <SUITE FILE_PATH="coverage/InterviewBit$Max_Non_Negative_SubArray.coverage" NAME="Max Non Negative SubArray Coverage Results" MODIFIED="1536936023711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/SimulationArray" />
     <SUITE FILE_PATH="coverage/InterviewBit$Set_Matrix_Zeros.coverage" NAME="Set Matrix Zeros Coverage Results" MODIFIED="1536936075849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/SpaceRecycle" />
     <SUITE FILE_PATH="coverage/InterviewBit$Matrix_Median.coverage" NAME="Matrix Median Coverage Results" MODIFIED="1537021392305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Search_answer" />
     <SUITE FILE_PATH="coverage/InterviewBit$Excel_Column_Title.coverage" NAME="Excel Column Title Coverage Results" MODIFIED="1537020757231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math/BaseConversion" />
+    <SUITE FILE_PATH="coverage/InterviewBit$Remove_Element_from_Array.coverage" NAME="Remove Element from Array Coverage Results" MODIFIED="1537651974618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
     <SUITE FILE_PATH="coverage/InterviewBit$Reverse_Bits.coverage" NAME="Reverse Bits Coverage Results" MODIFIED="1537604506491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BitManipulation/BitPlay" />
     <SUITE FILE_PATH="coverage/InterviewBit$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1537020053976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math/Adhoc" />
     <SUITE FILE_PATH="coverage/InterviewBit$Sum_of_pairwise_Hamming_Distance.coverage" NAME="Sum of pairwise Hamming Distance Coverage Results" MODIFIED="1537019882597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Math/Adhoc" />
@@ -91,21 +49,7 @@
     <SUITE FILE_PATH="coverage/InterviewBit$Find_Duplicate_in_Array.coverage" NAME="Find Duplicate in Array Coverage Results" MODIFIED="1537261316943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays/Bucketing_or_sorting" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="473">
-                <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,6 +95,12 @@
         <option value="$PROJECT_DIR$/BitManipulation/BitPlay/Divide Integers.py" />
         <option value="$PROJECT_DIR$/Level3/TwoPointers/Merge Two Sorted Lists II.py" />
         <option value="$PROJECT_DIR$/Level3/TwoPointers/Intersection Of Sorted Arrays.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays/Intersection Of Sorted Arrays.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/TwoPointer/Minimize the absolute difference.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array II.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Element from Array.py" />
+        <option value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Sort by Color.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -185,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,8 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,111 +175,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Merge Two Sorted Lists II">
-    <configuration name="Divide Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Sort by Color">
+    <configuration name="Minimize the absolute difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation/BitPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers/TwoPointer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewBit" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/BitPlay/Divide Integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/TwoPointer/Minimize the absolute difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Merge Two Sorted Lists II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Duplicates from Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewBit" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays/Merge Two Sorted Lists II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Number of 1 Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Duplicates from Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation/BitPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewBit" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/BitPlay/Number of 1 Bits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Reverse Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Remove Element from Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation/BitPlay" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewBit" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/BitPlay/Reverse Bits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Element from Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Single Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sort by Color" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitManipulation/BitArray" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="InterviewBit" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitManipulation/BitArray/Single Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Sort by Color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Single Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Number of 1 Bits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Reverse Bits" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Divide Integers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Merge Two Sorted Lists II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Minimize the absolute difference" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Remove Element from Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Sort by Color" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Merge Two Sorted Lists II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Divide Integers" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Reverse Bits" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Number of 1 Bits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Single Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Sort by Color" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Remove Element from Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Minimize the absolute difference" />
       </list>
     </recent_temporary>
   </component>
@@ -348,15 +298,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1485623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20447284" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -379,16 +328,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Level3/BitManipulation/BitArray/Single Number II.py">
+    <entry file="file://$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Largest Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -396,7 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -404,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -412,15 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Level2/Arrays/Bucketing_or_sorting/Largest Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -428,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -436,7 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,14 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv_py3/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -651,7 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="39" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,8 +640,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/MultipleArrays/Intersection Of Sorted Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="833">
+          <caret line="49" column="14" lean-forward="false" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv_py3/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/TwoPointer/Minimize the absolute difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Duplicates from Sorted Array II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Remove Element from Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level3/TwoPointers/InplaceUpdate/Sort by Color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -738,8 +697,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="473">
-            <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <first_editor relative-caret-position="270">
+            <caret line="16" column="105" lean-forward="false" selection-start-line="16" selection-start-column="105" selection-end-line="16" selection-end-column="105" />
             <folding />
           </first_editor>
           <second_editor />
