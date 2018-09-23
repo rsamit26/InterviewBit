@@ -1,6 +1,7 @@
 # InterviewBit Solution 
 
-##### Solution of Interview Problems in python 3 with proper documentation
+#### Solution of InterviewBit Problems in python 3 
+with proper documentation
 
 Topic Covered ::
   -
