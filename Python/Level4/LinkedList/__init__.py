@@ -24,3 +24,4 @@ class Traverse:
         while p is not None:
             print(p.val, end="->")
             p = p.next
+        print("\n")
