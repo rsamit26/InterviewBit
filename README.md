@@ -1,7 +1,7 @@
 # InterviewBit Solution 
 
 #### Solution of InterviewBit Problems in python 3 
-with proper documentation
+
 
 Topic Covered ::
   -
@@ -14,11 +14,11 @@ Topic Covered ::
     - [x] [Bit Manipulation](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/BitManipulation)
     - [x] [Two Pointers](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level3/TwoPointers)
   * Level 4
-    - [ ] [Linked List](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/LinkedList)
-    - [ ] [Stacks And Queues](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/StacksAndQueues)
+    - [x] [Linked List](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/LinkedList)
+    - [x] [Stacks And Queues](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level4/StacksAndQueues)
   * Level 5
-    - [ ] Backtracking
-    - [ ] Hashing
+    - [x] [Backtracking](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level5/Backtracking)
+    - [X] [Hashing](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level5/Hashing)
   * Level 6
     - [ ] Heaps and Maps
     - [ ] Tree Data Structure
@@ -27,6 +27,8 @@ Topic Covered ::
     - [ ] Greedy Algorithm
   * Level 8
     - [ ] Graph Data Structure and Algorithms
+
+
 
   
   
