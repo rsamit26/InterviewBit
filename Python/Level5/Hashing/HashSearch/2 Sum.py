@@ -39,10 +39,23 @@ class Solution:
         else:
             return []
 
+    def two_sum_02(self, arr, target):
+        res = []
+        for i in range(len(arr)):
+            x = target - arr[i]
+            for j in range(i + 1, len(arr)):
+                if x == arr[j]:
+                    res.append([i + 1, j + 1])
+        res.sort(key=lambda x: x[1])
+
+        if res:
+            return res[0]
+        else:
+            return []
+
 
 s = Solution()
 
 ar = [4, 7, -4, 2, 2, 2, 3, -5, -3, 9, -4, 9, -7, 7, -1, 9, 9, 4, 1, -4, -2, 3, -3, -5, 4, -7, 7, 9, -4, 4, -8]
 
-print(s.two_sum(ar, -3))
-
+print(s.two_sum_02(ar, -3))
