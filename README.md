@@ -39,13 +39,3 @@ Topic Covered ::
 ## Authors
 
 * **Amit Kumar** - *Initial work* - [AlgorithmsAndDatastructure](https://github.com/rsamit26/AlgorithmsAndDatastructure)
-
-`#F00`  
-`#F00A`  
-`#FF0000`  
-`#FF0000AA`  
-`RGB(0,255,0)`  
-`RGB(0%,100%,0%)`  
-`RGBA(0,255,0,0.7)`  
-`HSL(540,70%,50%)`  
-`HSLA(540,70%,50%,0.7)`
