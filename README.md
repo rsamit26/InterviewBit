@@ -1,7 +1,6 @@
-# InterviewBit Solution 
+# [InterviewBit](https://www.interviewbit.com/courses/programming/) ![Language](https://img.shields.io/badge/language-Python-orange.svg)
 
-#### Solution of InterviewBit Problems in python 3 
-
+Solution of InterviewBit Problems in python 3 
 
 Topic Covered ::
   -
@@ -27,8 +26,14 @@ Topic Covered ::
     - [ ] Greedy Algorithm
   * Level 8
     - [ ] Graph Data Structure and Algorithms
+    
+## Arrays
+|  #  | Title           | Python          | Go              | CPP          | Note| 
+|-----|---------------- | --------------- | --------------- |--------------|-----|
+1 | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [Done](./Python/Level2/Arrays/ArrayMath/Min%20Steps%20in%20Infinite%20Grid.py) | --- | ---| Easy
+## Authors
 
-
+* **Amit Kumar** - *Initial work* - [AlgorithmsAndDatastructure](https://github.com/rsamit26/AlgorithmsAndDatastructure)
 
   
   
