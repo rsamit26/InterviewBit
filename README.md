@@ -20,8 +20,8 @@ Topic Covered ::
     - [x] [Backtracking](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level5/Backtracking)
     - [X] [Hashing](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level5/Hashing)
   * Level 6
-    - [ ] Heaps and Maps
-    - [ ] Tree Data Structure
+    - [x] [Heaps and Maps](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level6/HeapsAndMaps)
+    - [x] [Tree Data Structure](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level6/TreeDataStructure)
   * Level 7
     - [ ] Dynamic Programming
     - [ ] Greedy Algorithm
