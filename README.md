@@ -27,7 +27,23 @@ Topic Covered ::
   * Level 8
     - [ ] Graph Data Structure and Algorithms
     
-## ``Level 2 : Array``
+## ![Level](https://img.shields.io/badge/level-VI-brightgreen.svg) ![DataType](https://img.shields.io/badge/DATA%20Type-Tree%20Data%20Structure-red.svg)
+|  #  | Title           | Python          | Go              | CPP          | Note| 
+|-----|---------------- | --------------- | --------------- |--------------|-----|
+1 | [Vertical Order traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Vertical%20Order%20traversal%20of%20Binary%20Tree.py) | --- | --- | Medium
+2 | [Inorder Traversal](https://www.interviewbit.com/problems/inorder-traversal/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Inorder%20Traversal.py) | --- | --- | Basic
+3 | [Postorder Traversal](https://www.interviewbit.com/problems/postorder-traversal/) | [Done](./Python/Level6/TreeDataStructure/Traversal/postorder%20traversal.py) | --- | --- | Basic
+4 | [Preorder Traversal](https://www.interviewbit.com/problems/preorder-traversal/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Preorder%20Traversal.py) | --- | --- | Basic
+5 | [ZigZag Level Order Traversal BT](https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/ZigZag%20Level%20Order%20Traversal%20BT.py) | --- | --- | Easy
+6 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/Populate%20Next%20Right%20Pointers%20Tree.py) | --- | --- | Medium
+7 | [Path Sum](https://www.interviewbit.com/problems/path-sum/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Path%20Sum.py) | --- | --- | Medium
+8 | [Root to Leaf Paths With Sum](https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Root%20to%20Leaf%20Paths%20With%20Sum.py) | --- | --- | Medium
+8 | [Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Max%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
+8 | [Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Min%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
+8 | [Sum Root to Leaf Numbers](https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Sum%20Root%20to%20Leaf%20Numbers.py) | --- | --- | Medium
+
+    
+## ![Level](https://img.shields.io/badge/Level-II-brightgreen.svg?longCache=true&Level=VI) ![DataType](https://img.shields.io/badge/DATA%20Type-Array-red.svg)
 |  #  | Title           | Python          | Go              | CPP          | Note| 
 |-----|---------------- | --------------- | --------------- |--------------|-----|
 1 | [Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/) | [Done](./Python/Level2/Arrays/ArrayMath/Min%20Steps%20in%20Infinite%20Grid.py) | --- | ---| Easy
@@ -39,13 +55,3 @@ Topic Covered ::
 ## Authors
 
 * **Amit Kumar** - *Initial work* - [AlgorithmsAndDatastructure](https://github.com/rsamit26/AlgorithmsAndDatastructure)
-
-`#F00`  
-`#F00A`  
-`#FF0000`  
-`#FF0000AA`  
-`RGB(0,255,0)`  
-`RGB(0%,100%,0%)`  
-`RGBA(0,255,0,0.7)`  
-`HSL(540,70%,50%)`  
-`HSLA(540,70%,50%,0.7)`
