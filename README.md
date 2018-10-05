@@ -26,6 +26,17 @@ Topic Covered ::
     - [ ] Greedy Algorithm
   * Level 8
     - [ ] Graph Data Structure and Algorithms
+
+## ![Level](https://img.shields.io/badge/level-VII-brightgreen.svg) ![DataType](https://img.shields.io/badge/Dynamic-Programming-red.svg)
+|  #  | Title           | Python          | Go              | CPP          | Note| 
+|-----|---------------- | --------------- | --------------- |--------------|-----|
+1 | [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Vertical%20Order%20traversal%20of%20Binary%20Tree.py) | --- | --- | Medium
+2 | [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Inorder%20Traversal.py) | --- | --- | Hard
+3 | [Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/) | [Done](./Python/Level6/TreeDataStructure/Traversal/postorder%20traversal.py) | --- | --- | Easy
+5 | [Stairs](https://www.interviewbit.com/problems/stairs/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/ZigZag%20Level%20Order%20Traversal%20BT.py) | --- | --- | Basic
+6 | [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/Populate%20Next%20Right%20Pointers%20Tree.py) | --- | --- | Medium
+
+
     
 ## ![Level](https://img.shields.io/badge/level-VI-brightgreen.svg) ![DataType](https://img.shields.io/badge/DATA%20Type-Tree%20Data%20Structure-red.svg)
 |  #  | Title           | Python          | Go              | CPP          | Note| 

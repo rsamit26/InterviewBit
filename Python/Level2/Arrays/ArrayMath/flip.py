@@ -9,7 +9,6 @@ class Solution:
 
         for i, a in enumerate(A):
             diff += (1 if a is '0' else -1)
-            print(i, a, max_diff, diff, start, ans)
 
             if diff < 0:
                 diff = 0
