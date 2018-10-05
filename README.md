@@ -22,7 +22,7 @@ Topic Covered ::
     - [x] [Heaps and Maps](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level6/HeapsAndMaps)
     - [x] [Tree Data Structure](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level6/TreeDataStructure)
   * Level 7
-    - [ ] Dynamic Programming
+    - [x] [Dynamic Programming](https://github.com/rsamit26/InterviewBit/tree/master/Python/Level7/DynamicProgramming)
     - [ ] Greedy Algorithm
   * Level 8
     - [ ] Graph Data Structure and Algorithms
@@ -30,11 +30,11 @@ Topic Covered ::
 ## ![Level](https://img.shields.io/badge/level-VII-brightgreen.svg) ![DataType](https://img.shields.io/badge/Dynamic-Programming-red.svg)
 |  #  | Title           | Python          | Go              | CPP          | Note| 
 |-----|---------------- | --------------- | --------------- |--------------|-----|
-1 | [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Vertical%20Order%20traversal%20of%20Binary%20Tree.py) | --- | --- | Medium
-2 | [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/) | [Done](./Python/Level6/TreeDataStructure/Traversal/Inorder%20Traversal.py) | --- | --- | Hard
-3 | [Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/) | [Done](./Python/Level6/TreeDataStructure/Traversal/postorder%20traversal.py) | --- | --- | Easy
-5 | [Stairs](https://www.interviewbit.com/problems/stairs/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/ZigZag%20Level%20Order%20Traversal%20BT.py) | --- | --- | Basic
-6 | [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/Populate%20Next%20Right%20Pointers%20Tree.py) | --- | --- | Medium
+1 | [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/) | [Done](./Python/Level7/DynamicProgramming/SimpleArrayDP/Length%20of%20Longest%20Subsequence.py) | --- | --- | Medium
+2 | [Largest area of rectangle with permutations](https://www.interviewbit.com/problems/largest-area-of-rectangle-with-permutations/) | [Done](./Python/Level7/DynamicProgramming/SimpleArrayDP/Largest%20area%20of%20rectangle%20with%20permutations.py) | --- | --- | Hard
+3 | [Ways to Decode](https://www.interviewbit.com/problems/ways-to-decode/) | [Done](./Python/Level7/DynamicProgramming/SimpleArrayDP/Ways%20to%20Decode.py) | --- | --- | Easy
+4 | [Stairs](https://www.interviewbit.com/problems/stairs/) | [Done](./Python/Level7/DynamicProgramming/SimpleArrayDP/Stairs.py) | --- | --- | Basic
+5 | [Intersecting Chords in a Circle](https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/) | [Done](./Python/Level7/DynamicProgramming/SimpleArrayDP/Intersecting%20Chords%20in%20a%20Circle.py) | --- | --- | Medium
 
 
     
@@ -49,9 +49,9 @@ Topic Covered ::
 6 | [Populate Next Right Pointers Tree](https://www.interviewbit.com/problems/populate-next-right-pointers-tree/) | [Done](./Python/Level6/TreeDataStructure/LevelOrder/Populate%20Next%20Right%20Pointers%20Tree.py) | --- | --- | Medium
 7 | [Path Sum](https://www.interviewbit.com/problems/path-sum/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Path%20Sum.py) | --- | --- | Medium
 8 | [Root to Leaf Paths With Sum](https://www.interviewbit.com/problems/root-to-leaf-paths-with-sum/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Root%20to%20Leaf%20Paths%20With%20Sum.py) | --- | --- | Medium
-8 | [Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Max%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
-8 | [Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Min%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
-8 | [Sum Root to Leaf Numbers](https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Sum%20Root%20to%20Leaf%20Numbers.py) | --- | --- | Medium
+9 | [Max Depth of Binary Tree](https://www.interviewbit.com/problems/max-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Max%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
+10 | [Min Depth of Binary Tree](https://www.interviewbit.com/problems/min-depth-of-binary-tree/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Min%20Depth%20of%20Binary%20Tree.py) | --- | --- | Easy
+11 | [Sum Root to Leaf Numbers](https://www.interviewbit.com/problems/sum-root-to-leaf-numbers/) | [Done](./Python/Level6/TreeDataStructure/RootToLeaf/Sum%20Root%20to%20Leaf%20Numbers.py) | --- | --- | Medium
 
     
 ## ![Level](https://img.shields.io/badge/Level-II-brightgreen.svg?longCache=true&Level=VI) ![DataType](https://img.shields.io/badge/DATA%20Type-Array-red.svg)
