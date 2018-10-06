@@ -27,7 +27,6 @@ class Solution:
 
     def comb_sum_helper(self, candidate, target, curr, result, i):
         n = len(candidate)
-
         if target < 0:
             return
         if target == 0:
