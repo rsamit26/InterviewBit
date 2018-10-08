@@ -21,20 +21,6 @@ so maximum amount of value you can get is 6
 
 class Solution:
 
-    def coin_in_line(self, coin_set):
-
-        n = len(coin_set)
-
-        a, b = 0, 0
-
-        for i in range(n):
-            if i % 2 == 0:
-                a += coin_set[i]
-            else:
-                b += coin_set[i]
-
-        return max(a, b)
-
     def max_coin(self, coins):
         if not coins:
             return 0
@@ -74,5 +60,4 @@ class Solution:
 
 s = Solution()
 c = [2, 3, 1, 5]
-print(s.coin_in_line(c))
 print(s.max_coin(c))

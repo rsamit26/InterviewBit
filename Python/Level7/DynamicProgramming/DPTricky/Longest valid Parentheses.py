@@ -6,13 +6,14 @@ For "(()", the longest valid parentheses substring is "()", which has length = 2
 
 Another example is ")()())", where the longest valid parentheses substring is "()()", which has length = 4.
 """
+
+
 # TODO DO this again
 
 class Solution:
 
     def longest_valid_parentheses(self, s):
         n = len(s)
-
 
 
 s = Solution()
