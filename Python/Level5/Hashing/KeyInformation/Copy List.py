@@ -17,4 +17,9 @@ with random pointers going from
 You should return a deep copy of the list. The returned answer should not contain the same node as the original list,
 but a copy of them. The pointers in the returned list should not link to any node in the original input list.
 """
-# TODO After doing DP
+
+
+# TODO After doing DP -- Done
+
+# Definition for singly-linked list with a random pointer.
+
