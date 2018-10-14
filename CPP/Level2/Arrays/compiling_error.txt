@@ -1,0 +1,4 @@
+/Users/amitkumar/workspace/InterviewBit/CPP/Level2/Arrays/Min Steps in Infinite Grid.cpp:1:5: error: use of undeclared identifier 'Solution'
+int Solution::coverPoints(vector<int> &A, vector<int> &B) {
+    ^
+1 error generated.
