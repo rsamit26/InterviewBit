@@ -17,13 +17,6 @@ Return :
 # Preorder ::   root -> left -> right
 # ::: From the pre order traversal we can say first element is root of the tree
 # save the value and index of inorder list in hashTable(dict) for fast lookup in O(1) time
-
-
-
-
-
-
-
 class Node:
     def __init__(self, data):
         self.data = data
