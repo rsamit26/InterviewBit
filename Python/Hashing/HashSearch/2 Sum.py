@@ -47,15 +47,30 @@ class Solution:
                 if x == arr[j]:
                     res.append([i + 1, j + 1])
         res.sort(key=lambda x: x[1])
-
         if res:
             return res[0]
         else:
             return []
+    # LeetCode Two Sum problem beats 99%
+    def twoSum_03(self, arr, target):
+        from collections import defaultdict
+        lookup = defaultdict(int)
+        n = len(arr)
+        res = []
+        for i in range(n):
+            req = target - arr[i]
+            if lookup is None:
+                lookup[req] = i
+            elif arr[i] in lookup:
+                return [lookup[arr[i]], i]
+            else:
+                lookup[req] = i
+        return []
+
 
 
 s = Solution()
-
-ar = [4, 7, -4, 2, 2, 2, 3, -5, -3, 9, -4, 9, -7, 7, -1, 9, 9, 4, 1, -4, -2, 3, -3, -5, 4, -7, 7, 9, -4, 4, -8]
-
-print(s.two_sum_02(ar, -3))
+arr = [2,7,11,15]
+print(s.twoSum_03(arr, 9))
+arr = [4, 7, -4, 2, 2, 2, 3, -5, -3, 9, -4, 9, -7, 7, -1, 9, 9, 4, 1, -4, -2, 3, -3, -5, 4, -7, 7, 9, -4, 4, -8]
+print(s.two_sum_02(arr, -3))

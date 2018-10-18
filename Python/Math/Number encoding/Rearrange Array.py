@@ -28,10 +28,11 @@ class Solution:
 
         for i in range(len(arr)):
             res[i] = arr[arr[i]]
-        arr = res
+        for i in range(len(arr)):
+            arr[i] = res[i]
         return arr
 s = Solution()
 a = [3, 2, 0, 1]
 b = [1,0]
-# print(s.rearrangeArray(a))
-print(s.method_02(a))
+print(s.rearrangeArray(a))
+print(s.method_02(b))

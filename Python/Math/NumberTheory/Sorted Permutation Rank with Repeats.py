@@ -1,19 +1,19 @@
 """
-Given a string, find the rank of the string amongst its permutations sorted lexicographically.
-Assume that no characters are repeated.
+Given a string, find the rank of the string amongst its permutations sorted
+lexicographically.
+Note that the characters might be repeated. If the characters are repeated,
+we need to look at the rank in unique permutations.
+Look at the example for more details.
 
 Example :
 
-Input : 'acb'
+Input : 'aba'
 Output : 2
 
-The order permutations with letters 'a', 'c', and 'b' :
-abc
-acb
-bac
-bca
-cab
-cba
+The order permutations with letters 'a', 'a', and 'b' :
+aab
+aba
+baa
 The answer might not fit in an integer, so return your answer % 1000003
 """
 
@@ -21,6 +21,13 @@ class Solution:
 
     # Return the rank of given string from sorted permutation of that string
     def rankPermutation(self, string):
+        from collections import defaultdict
+        lookup = defaultdict(int)
+        for i in string:
+            if lookup[string[i]] is None:
+                lookup[string] = 1
+            else:
+                lookup[string[i]] += 1
         n, rank, i = len(string), 1, 0
         total_permutaion = self.fact(n)  # Total number of permutation
         while i < n:
@@ -44,25 +51,3 @@ class Solution:
             f *= i
             i+=1
         return f
-    # Space : O(n) # Time: O(n*n)
-    def method_02(self, string):
-        arr, n = list(string), len(string)
-        sorted_arr = sorted(arr)
-        rank, i, j = 1, 0, 0
-        while i < n and j < len(sorted_arr):
-            if sorted_arr[i] != arr[j]:
-                rank += self.fact(len(sorted_arr)-1)
-                i+= 1
-            if sorted_arr[i] == arr[j]:
-                del sorted_arr[i]
-                j+= 1
-                i = 0
-        return rank%1000003
-
-
-
-
-
-s = Solution()
-print(s.rankPermutation("VIEW"))
-print(s.method_02("VIEW"))

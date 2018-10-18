@@ -17,6 +17,7 @@ class Solution:
         n = len(A)
         lis = [1] * n
         nas = [1] * n
+        seq = []
         for i in range(n):
             for j in range(i):
                 if A[i] > A[j] and lis[i] < lis[j] + 1:
@@ -26,14 +27,16 @@ class Solution:
             for j in range(n - 1, i, -1):
                 if A[i] > A[j] and nas[i] < nas[j] + 1:
                     nas[i] = nas[j] + 1
-
         maximum = 0
-
         # Pick maximum of all LIS values
         for i in range(n):
             maximum = max(maximum, lis[i] + nas[i] - 1)
 
         return maximum
+
+
+
+
 
 
 s = Solution()
