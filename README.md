@@ -3,29 +3,25 @@
 Solution of InterviewBit Problems in python 3
 
 Topic Covered ::
-  -
-  * Level 2
-    - [x] [Arrays](https://github.com/rsamit26/InterviewBit/tree/master/Python/Arrays)
-    - [x] [Math](https://github.com/rsamit26/InterviewBit/tree/master/Python/Math)
-  * Level 3
-    - [x] [Binary Search](https://github.com/rsamit26/InterviewBit/tree/master/Python/BinarySearch)
-    - [x] [Strings](https://github.com/rsamit26/InterviewBit/tree/master/Python/Strings)
-    - [x] [Bit Manipulation](https://github.com/rsamit26/InterviewBit/tree/master/Python/BitManipulation)
-    - [x] [Two Pointers](https://github.com/rsamit26/InterviewBit/tree/master/Python/TwoPointers)
-  * Level 4
-    - [x] [Linked List](https://github.com/rsamit26/InterviewBit/tree/master/Python/LinkedList)
-    - [x] [Stacks And Queues](https://github.com/rsamit26/InterviewBit/tree/master/Python/StacksAndQueues)
-  * Level 5
-    - [x] [Backtracking](https://github.com/rsamit26/InterviewBit/tree/master/Python/Backtracking)
-    - [X] [Hashing](https://github.com/rsamit26/InterviewBit/tree/master/Python/Hashing)
-  * Level 6
-    - [x] [Heaps and Maps](https://github.com/rsamit26/InterviewBit/tree/master/Python/HeapsAndMaps)
-    - [x] [Tree Data Structure](https://github.com/rsamit26/InterviewBit/tree/master/Python/TreeDataStructure)
-  * Level 7
-    - [x] [Dynamic Programming](https://github.com/rsamit26/InterviewBit/tree/master/Python/DynamicProgramming)
-    - [ ] Greedy Algorithm
-  * Level 8
-    - [ ] Graph Data Structure and Algorithms
+
+|  Level  | Topic         | Python          | Go              | CPP          | Note|
+|-----|---------------- | --------------- | --------------- |--------------|-----|
+2 | Arrays | [Done](./Python/Arrays) | -- | -- | Working
+2 | Math | [Done](./Python/Math) | -- | -- | Working
+3 | Binary Search | [Done](./Python/BinarySearch) | -- | -- | Working
+3 | Strings | [Done](./Python/Strings) | -- | -- | Working
+3 | Bit Manipulation | [Done](./Python/BitManipulation) | -- | -- | Working
+3 | Two Pointers | [Done](./Python/TwoPointers) | -- | -- | Working
+4 | Linked List | [Done](./Python/LinkedList) | -- | -- | Working
+4 | Stacks And Queues | [Done](./Python/StacksAndQueues) | -- | -- | Working
+5 | Backtracking | [Done](./Python/Backtracking) | -- | -- | Working
+5 | Hashing | [Done](./Python/Hashing) | -- | -- | Working
+6 | Heaps and Maps | [Done](./Python/HeapsAndMaps) | -- | -- | Working
+6 | Tree Data Structure | [Done](./Python/TreeDataStructure) | -- | -- | Working
+7 | Dynamic Programming | [Done](./Python/DynamicProgramming) | -- | -- | Working
+7 | Greedy Algorithm | [Done](./Python/GreedyAlgorithm) | -- | -- | Working
+8 | Graph Data Structure and Algorithms | [Done](./Python/GraphDataStructureAlgorithms) | -- | -- | Working
+
 
 ## ![Level](https://img.shields.io/badge/level-VII-brightgreen.svg) ![DataType](https://img.shields.io/badge/Dynamic-Programming-red.svg)
 |  #  | Title           | Python          | Go              | CPP          | Note|

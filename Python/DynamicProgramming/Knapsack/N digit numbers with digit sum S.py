@@ -14,6 +14,22 @@ Hence output 4.
 
 class Solution:
 
+
+    def solve(self, n, target):
+        lookup = [[0 for i in range(target+1)] for _ in range(n+1)]
+
+        lookup[0][0] = 1
+
+        for i in range(n):
+            for j in range(target):
+                for k in range(10):
+                    if j + k <= target:
+                        lookup[i+1][j+k] += lookup[i][j]
+                    else:
+                        break
+        return lookup[n][target] % 1000000007
+
+    # Recursive solution
     def numbers(self, n, target):
 
         lookup = [[-1 for _ in range(101)]for _ in range(501)]
@@ -22,7 +38,7 @@ class Solution:
         for i in range(1,10):
             if target - i >= 0:
                 curr += self.helper(lookup, n-1, target - i)
-        return curr
+        return curr % 1000000007
 
     def helper(self, lookup, n, target):
 
@@ -41,4 +57,5 @@ class Solution:
 
 
 s = Solution()
-print(s.numbers(3,5))
+print(s.numbers(3,4))
+print(s.solve(3,4))
