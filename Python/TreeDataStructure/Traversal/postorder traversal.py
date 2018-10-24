@@ -33,6 +33,21 @@ class Solution:
 
         return result
 
+        # Using recursion
+    def postorderTraversal(self, root):
+        res  = []
+        if root is None:
+            return res
+        self.helper(root, res)
+        return res
+
+    def helper(self, node, res):
+
+        if node is None:
+            return        
+        self.helper(node.left, res)
+        self.helper(node.right, res)
+        res.append(node.val)
 
 """ Testing Code """
 from Python.Level6.TreeDataStructure import Node

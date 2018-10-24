@@ -31,6 +31,21 @@ class Solution:
                 stack.append((root, True))
 
         return result
+    # Using recursion
+    def preorderTraversal(self, root):
+        res  = []
+        if root is None:
+            return res
+        self.helper(root, res)
+        return res
+
+    def helper(self, node, res):
+
+        if node is None:
+            return
+        res.append(node.val)
+        self.helper(node.left, res)
+        self.helper(node.right, res)
 
 
 """ Testing Code """

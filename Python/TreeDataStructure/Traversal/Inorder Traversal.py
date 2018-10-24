@@ -34,6 +34,20 @@ class Solution:
 
         return result
 
+    # Method 02 : Using recursion
+    def inorderTraversal(self, root):
+        res = []
+        if root is None:
+            return []
+        self.helper(root, res)
+        return res
+    def helper(self, root, res):
+        if root is None:
+            return
+        self.helper(root.left, res)
+        res.append(root.val)
+        self.helper(root.right, res)
+
 
 """ Testing Code """
 from Python.Level6.TreeDataStructure import Node

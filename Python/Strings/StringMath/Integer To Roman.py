@@ -20,7 +20,54 @@ Return : "XIV"
 class Solution:
     # @param A : integer
     # @return a strings
-    def intToRoman(self, num):
+    def method_01(self, num):
+        s = ""
+        while num >= 1000:
+            s  += 'M'
+            num -= 1000
+        if num >= 900:
+            s += 'CM'
+            num -= 900
+        if num >= 500:
+            s+= 'D'
+            num -= 500
+        if num >= 400:
+            num -= 400
+            s+= 'CD'
+        while num >= 100:
+            num -= 100
+            s+= 'C'
+        if num >= 90:
+            num -= 90
+            s+= 'XC'
+        if num >= 50:
+            num -= 50
+            s+= 'L'
+        if num >= 40:
+            s+= 'XL'
+            num -= 40
+        while num >= 10:
+            s+= 'X'
+            num -= 10
+        if num == 9:
+            s+= 'IX'
+            return s
+        if num >=5:
+            s+= 'V'
+            num -= 5
+        if num == 4:
+            s+= 'IV'
+            return s
+        while num > 0:
+            s+= 'I'
+            num -= 1
+        return s
+
+
+
+
+
+    def method_02(self, num):
         num_map = [(1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'), (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'),
                    (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')]
         roman = ""
