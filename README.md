@@ -6,7 +6,7 @@ Topic Covered ::
 
 |  Level  | Topic         | Python          | Go              | CPP          | Note|
 |-----|---------------- | --------------- | --------------- |--------------|-----|
-2 | Arrays | [Done](./Python/Arrays) | -- | -- | Working
+2 | Arrays | [Done](./Python/Arrays) | [Done](./Golang/Level2/Arrays) | -- | Working
 2 | Math | [Done](./Python/Math) | -- | -- | Working
 3 | Binary Search | [Done](./Python/BinarySearch) | -- | -- | Working
 3 | Strings | [Done](./Python/Strings) | -- | -- | Working
